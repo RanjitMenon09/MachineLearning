@@ -1,0 +1,938 @@
+WEBVTT
+
+NOTE duration:"00:06:54"
+
+NOTE recognizability:0.684
+
+NOTE language:en-us
+
+NOTE Confidence: 0.62458827231579
+
+76f86f8d-0f62-433a-a8d4-7b7088fc7070
+00:00:07.110 --> 00:00:08.730
+Hello and welcome back.
+
+NOTE Confidence: 0.62458827231579
+
+3973772b-485a-4b33-8be2-f9f90b42089e
+00:00:08.730 --> 00:00:11.575
+In the previous video we have seen
+
+NOTE Confidence: 0.62458827231579
+
+0a765adf-b5a9-4f04-9f63-27273a8b3814
+00:00:11.575 --> 00:00:14.223
+in jargon the key terms and so on.
+
+NOTE Confidence: 0.62458827231579
+
+86dbdc1d-dde4-4cd6-9a94-e413dc9b881f
+00:00:14.230 --> 00:00:16.438
+In this video we are going to look
+
+NOTE Confidence: 0.62458827231579
+
+17a5e17d-3b29-4935-9d48-5477832db4a0
+00:00:16.438 --> 00:00:18.408
+into NLP data versus NLP data.
+
+NOTE Confidence: 0.62458827231579
+
+7b39ea12-8d2d-402a-89ef-abb0b87839da
+00:00:18.410 --> 00:00:20.245
+What are the different categories
+
+NOTE Confidence: 0.62458827231579
+
+feacf40e-c827-4fd5-985e-5f0f2dd790f7
+00:00:20.245 --> 00:00:23.090
+of NLP data and the data itself?
+
+NOTE Confidence: 0.62458827231579
+
+9a807940-04bb-4a9d-aa3d-a941d40091a6
+00:00:23.090 --> 00:00:25.265
+There are two categories which
+
+NOTE Confidence: 0.62458827231579
+
+d6a912a5-fb2c-4728-a23a-631b695dbdb9
+00:00:25.265 --> 00:00:28.049
+is structured and unstructured,
+
+NOTE Confidence: 0.62458827231579
+
+60926f8e-c7b9-4933-a20c-bb27b42108be
+00:00:28.050 --> 00:00:30.600
+so we'll be looking into all
+
+NOTE Confidence: 0.62458827231579
+
+afd90bbc-b291-4bc9-bbeb-160ccc9b0588
+00:00:30.600 --> 00:00:33.090
+these topics in this meeting.
+
+NOTE Confidence: 0.62458827231579
+
+22117511-6cc2-4b51-ae71-43d8e67a8c57
+00:00:33.090 --> 00:00:35.658
+Let us see the data in a day.
+
+NOTE Confidence: 0.62458827231579
+
+b65556b6-c292-4985-9122-fac06d54624d
+00:00:35.660 --> 00:00:37.538
+There are a lot of data
+
+NOTE Confidence: 0.62458827231579
+
+25b2708b-4778-4abc-907f-cef9de29c288
+00:00:37.538 --> 00:00:39.289
+that is generated in a day,
+
+NOTE Confidence: 0.62458827231579
+
+b87ddb0e-a8b2-4984-8636-09835c18aae0
+00:00:39.290 --> 00:00:43.194
+so there are around 500 millions of reads,
+
+NOTE Confidence: 0.62458827231579
+
+4ca98e1c-00b5-4f9e-b648-4883e284d18b
+00:00:43.200 --> 00:00:45.430
+300 millions of text data,
+
+NOTE Confidence: 0.62458827231579
+
+1da906fe-bfd6-41eb-9ac1-36f4979bb17a
+00:00:45.430 --> 00:00:49.806
+400 gigabytes of video data and so on.
+
+NOTE Confidence: 0.62458827231579
+
+e179db9b-4364-4377-aa60-026b519110f5
+00:00:49.810 --> 00:00:52.582
+So all of which which is relevant
+
+NOTE Confidence: 0.62458827231579
+
+1b9fdf26-a6e6-4bec-83de-4ab0e5d0b392
+00:00:52.582 --> 00:00:54.670
+to natural language processing.
+
+NOTE Confidence: 0.62458827231579
+
+db2593af-5c8d-4a84-ba0d-a7dbc22b231d
+00:00:54.670 --> 00:00:59.350
+Let's see. What is data in LP?
+
+NOTE Confidence: 0.62458827231579
+
+302fd280-b966-4823-aff0-072c3e2b6721
+00:00:59.350 --> 00:01:01.722
+So what is data?
+
+NOTE Confidence: 0.62458827231579
+
+7d36ffb1-7f06-45b4-a737-fb68002e4e30
+00:01:01.722 --> 00:01:05.854
+Data that stores language data quality data.
+
+NOTE Confidence: 0.62458827231579
+
+a145fb45-0bcf-4e4e-9b1a-fe9ba53afa62
+00:01:05.854 --> 00:01:08.764
+Basically there are two categories.
+
+NOTE Confidence: 0.62458827231579
+
+e71764fc-47d0-4fbf-915d-240123397ba6
+00:01:08.770 --> 00:01:12.955
+One is the textual data and the speech data.
+
+NOTE Confidence: 0.62458827231579
+
+502641ea-dd24-4a68-bff4-8789062d3566
+00:01:12.960 --> 00:01:16.054
+In this course we will be only
+
+NOTE Confidence: 0.62458827231579
+
+0d081d65-6782-4ab4-b2d0-3ff7700328b4
+00:01:16.054 --> 00:01:19.790
+building with textual data alone.
+
+NOTE Confidence: 0.62458827231579
+
+bcf78d4a-04f3-4dd5-9a84-3a0a7b83d92e
+00:01:19.790 --> 00:01:22.430
+So here is an example of a text
+
+NOTE Confidence: 0.62458827231579
+
+5809e762-bed1-476a-8fce-b22eb6f79bc6
+00:01:22.430 --> 00:01:24.545
+data because there is some text
+
+NOTE Confidence: 0.62458827231579
+
+115ca948-25ea-4108-aed9-6fc87c44e368
+00:01:24.545 --> 00:01:27.668
+here and you have the banking data.
+
+NOTE Confidence: 0.62458827231579
+
+b717c710-7122-4cef-bd9a-3c94e043e814
+00:01:27.670 --> 00:01:29.326
+There are a lot of columns.
+
+NOTE Confidence: 0.62458827231579
+
+968471b6-8359-4b9d-a0c1-2d80a3fa5bc3
+00:01:29.330 --> 00:01:31.066
+There are a lot of words in
+
+NOTE Confidence: 0.62458827231579
+
+83105902-4fdf-4688-8e17-b3ee6b449206
+00:01:31.066 --> 00:01:32.360
+each of these columns,
+
+NOTE Confidence: 0.62458827231579
+
+59359ab1-9300-466d-bb7c-397faf8575e8
+00:01:32.360 --> 00:01:36.160
+so you can consider this to be a text data.
+
+NOTE Confidence: 0.62458827231579
+
+b6bd3ef7-ee1c-4a8f-9298-60d06db3a70b
+00:01:36.160 --> 00:01:38.348
+Everything is organized OK.
+
+NOTE Confidence: 0.62458827231579
+
+e4dc300d-c40a-4db6-82be-d1b4e173e9f1
+00:01:38.348 --> 00:01:41.083
+And let's see another example.
+
+NOTE Confidence: 0.62458827231579
+
+d4f526be-1bf6-4392-82bc-0dace618d9c2
+00:01:41.090 --> 00:01:43.850
+So here we have a news
+
+NOTE Confidence: 0.62458827231579
+
+1cfbe7f4-900e-43b1-a6dc-0b46601f0460
+00:01:43.850 --> 00:01:45.690
+article on coronavirus so.
+
+NOTE Confidence: 0.62458827231579
+
+700332ca-a3d1-4dc2-b1bf-0445870f06c6
+00:01:45.690 --> 00:01:47.940
+When compared with the previous slide,
+
+NOTE Confidence: 0.62458827231579
+
+32c59134-13ba-4140-84af-fc82608e7d56
+00:01:47.940 --> 00:01:49.680
+which is the banking data,
+
+NOTE Confidence: 0.62458827231579
+
+0830b56f-057b-45ad-b57e-9091f6c76c1c
+00:01:49.680 --> 00:01:52.670
+what differences did you see?
+
+NOTE Confidence: 0.62458827231579
+
+c7c8d26d-c337-41db-b4de-b4900f6b7b2e
+00:01:52.670 --> 00:01:56.010
+Yes, well, it's not organized.
+
+NOTE Confidence: 0.62458827231579
+
+8db506ec-c164-402d-88cf-3e1d3d8a145d
+00:01:56.010 --> 00:01:58.670
+There is no specific format.
+
+NOTE Confidence: 0.62458827231579
+
+e617eed8-2632-4831-a0fa-aa306f63a130
+00:01:58.670 --> 00:02:00.290
+You have just some heading
+
+NOTE Confidence: 0.62458827231579
+
+f94c651d-9c82-4925-b587-ee282d428363
+00:02:00.290 --> 00:02:01.910
+and followed by some text,
+
+NOTE Confidence: 0.62458827231579
+
+edbfc5d6-7f11-4764-961e-3e214417db30
+00:02:01.910 --> 00:02:04.196
+some random text and so on.
+
+NOTE Confidence: 0.62458827231579
+
+08a24d7f-b02f-4246-935f-c60a512ea184
+00:02:04.200 --> 00:02:07.557
+So you have a data which is organized and
+
+NOTE Confidence: 0.62458827231579
+
+3decb6c4-f57d-4096-a91b-5c1728a3436f
+00:02:07.557 --> 00:02:10.839
+you have a data that is not organized.
+
+NOTE Confidence: 0.62458827231579
+
+bbf61073-8f16-4521-b2ac-a1e84a8ea18f
+00:02:10.840 --> 00:02:13.153
+What about this?
+
+NOTE Confidence: 0.62458827231579
+
+388ce414-d920-4461-88d7-2097387b2ee2
+00:02:13.153 --> 00:02:15.466
+Yes here also.
+
+NOTE Confidence: 0.62458827231579
+
+62eb6214-4fd2-48ea-a359-2c60f9b3b6ac
+00:02:15.470 --> 00:02:17.410
+Even though you don't see
+
+NOTE Confidence: 0.62458827231579
+
+fa5f688c-2415-4799-9b28-5172db5c14a8
+00:02:17.410 --> 00:02:18.962
+any kind of organization,
+
+NOTE Confidence: 0.62458827231579
+
+1634cea7-1b28-46c3-82b6-5e2d9e3273d4
+00:02:18.970 --> 00:02:21.046
+but you can have like this,
+
+NOTE Confidence: 0.62458827231579
+
+950773eb-7d67-4d16-a0f9-45d386e30e46
+00:02:21.050 --> 00:02:23.294
+is this has a special meaning
+
+NOTE Confidence: 0.62458827231579
+
+2a93c3fc-7049-4fb7-97a8-6ae820177885
+00:02:23.294 --> 00:02:25.380
+or hash tag and so on.
+
+NOTE Confidence: 0.62458827231579
+
+4ba4cae7-3afc-4ada-a061-4acabf539120
+00:02:25.380 --> 00:02:29.108
+So this can also be considered as an
+
+NOTE Confidence: 0.62458827231579
+
+a6f18113-30ca-4dd1-977a-ff700785d92f
+00:02:29.108 --> 00:02:31.659
+unstructured or unorganized data.
+
+NOTE Confidence: 0.62458827231579
+
+61dc8371-4038-4be9-9c08-f4df7634ecb6
+00:02:31.660 --> 00:02:32.971
+What about this?
+
+NOTE Confidence: 0.62458827231579
+
+fa00b4c4-4211-4079-b249-af0261186819
+00:02:32.971 --> 00:02:36.030
+This is the news classification data set,
+
+NOTE Confidence: 0.62458827231579
+
+32545ddd-ec3c-4fcd-b5fc-6b0c00b67076
+00:02:36.030 --> 00:02:39.846
+though it seems to be a kind of organized,
+
+NOTE Confidence: 0.62458827231579
+
+f57ea3bd-ade3-4e2c-ae05-faf64e128977
+00:02:39.850 --> 00:02:44.288
+but you look into each of the.
+
+NOTE Confidence: 0.62458827231579
+
+2476dcab-c467-4beb-ac79-ce9fc09cc36b
+00:02:44.290 --> 00:02:45.882
+Who's in this column?
+
+NOTE Confidence: 0.62458827231579
+
+8bc67f05-b713-4b49-99dc-d39f86f0cb43
+00:02:45.882 --> 00:02:49.350
+You find that they are all unorganized,
+
+NOTE Confidence: 0.62458827231579
+
+661c80f4-59b8-4f72-8774-2df24b02a6f0
+00:02:49.350 --> 00:02:50.510
+so these are all news.
+
+NOTE Confidence: 0.62458827231579
+
+5dafea20-e461-44e7-ac23-a3a5a546020f
+00:02:50.510 --> 00:02:53.396
+Is different news that are there
+
+NOTE Confidence: 0.62458827231579
+
+3d66c777-633b-4863-a1a7-def3a049d1fe
+00:02:53.396 --> 00:02:54.839
+and they categories.
+
+NOTE Confidence: 0.62458827231579
+
+f89ca6de-9c76-48f8-96fa-d70ff1a3416c
+00:02:54.840 --> 00:02:57.444
+OK, so this is even though
+
+NOTE Confidence: 0.62458827231579
+
+fed0ba05-2a9e-47f8-8fee-a90a1291a6df
+00:02:57.444 --> 00:02:59.780
+this is a tabular data.
+
+NOTE Confidence: 0.62458827231579
+
+cca137be-495e-4201-9144-ac2f6e070932
+00:02:59.780 --> 00:03:04.050
+This is also unstructured data.
+
+NOTE Confidence: 0.62458827231579
+
+8aba07a1-c721-44b5-a1c2-c6e8241182c7
+00:03:04.050 --> 00:03:07.500
+So. So we have two categories.
+
+NOTE Confidence: 0.62458827231579
+
+1e3f7613-55a0-400a-a621-f2ef4f24ce79
+00:03:07.500 --> 00:03:07.821
+Now.
+
+NOTE Confidence: 0.62458827231579
+
+4d2afa51-c510-4948-8ded-39d09a36b00d
+00:03:07.821 --> 00:03:09.747
+One is the structured data and
+
+NOTE Confidence: 0.62458827231579
+
+90cd990f-dd4b-4499-aea6-9fea5f9c7b19
+00:03:09.747 --> 00:03:12.388
+the other is unstructured data in
+
+NOTE Confidence: 0.62458827231579
+
+45fde9fe-d084-4dfc-a7e9-27edc6681f01
+00:03:12.388 --> 00:03:14.260
+structured data fixed dimension,
+
+NOTE Confidence: 0.62458827231579
+
+1ac6a7bf-d69d-49e0-9ede-532869767072
+00:03:14.260 --> 00:03:17.959
+just as the banking data set that we saw,
+
+NOTE Confidence: 0.62458827231579
+
+6c7592ef-c122-4534-9765-9d40d5826b2e
+00:03:17.960 --> 00:03:20.450
+everything is organized usually in
+
+NOTE Confidence: 0.62458827231579
+
+7f4ea11e-080e-4f52-ae2a-16d92dc59a49
+00:03:20.450 --> 00:03:25.108
+tables or in a key value pair like Jason.
+
+NOTE Confidence: 0.62458827231579
+
+554e695a-1335-4435-ae12-3e3c0c3bbddb
+00:03:25.110 --> 00:03:28.308
+Object JSON representation and so on.
+
+NOTE Confidence: 0.62458827231579
+
+7e659e4d-189e-4f13-833b-06e806bebdba
+00:03:28.310 --> 00:03:31.406
+And it is simple to process because we
+
+NOTE Confidence: 0.62458827231579
+
+1f6a8303-5e42-4368-87d2-bb9fe69e01bc
+00:03:31.406 --> 00:03:34.685
+know well in hand what are we different?
+
+NOTE Confidence: 0.62458827231579
+
+34d537e5-a000-4f56-9921-21f7f7842caf
+00:03:34.690 --> 00:03:36.605
+Frozen columns that are there
+
+NOTE Confidence: 0.62458827231579
+
+09db619b-202c-413f-8196-5a89009fc232
+00:03:36.605 --> 00:03:38.137
+in the daytime so.
+
+NOTE Confidence: 0.62458827231579
+
+259e7980-b647-469f-8a05-9410145886da
+00:03:38.140 --> 00:03:41.036
+It is processed directly and there is no
+
+NOTE Confidence: 0.62458827231579
+
+63658c32-385b-47da-b948-6ecfd5621296
+00:03:41.036 --> 00:03:43.989
+need for intermediate representations.
+
+NOTE Confidence: 0.62458827231579
+
+aeee5cbf-dc90-429e-8306-7b3f7e451896
+00:03:43.990 --> 00:03:45.818
+Brothers in unstructured data.
+
+NOTE Confidence: 0.62458827231579
+
+56d22dfc-e30b-438c-932b-6337292971c1
+00:03:45.818 --> 00:03:48.103
+There is no specific dimension,
+
+NOTE Confidence: 0.62458827231579
+
+4370d2da-9621-47c1-86a0-acd207367b78
+00:03:48.110 --> 00:03:51.092
+so it's very hard and it is
+
+NOTE Confidence: 0.62458827231579
+
+5d891669-2266-41bc-853c-b28032d1147b
+00:03:51.092 --> 00:03:51.944
+not organized
+
+NOTE Confidence: 0.75739046
+
+ab34321f-2e7a-4e8a-94bd-b23b13f7d3cd
+00:03:51.950 --> 00:03:54.855
+and also there is no specific order
+
+NOTE Confidence: 0.75739046
+
+4dea8c21-8e97-47fe-b2c2-ac5d38846448
+00:03:54.855 --> 00:03:57.029
+thus making processing very complex
+
+NOTE Confidence: 0.75739046
+
+8330af70-0caa-4b09-8813-2ad179ed243d
+00:03:57.030 --> 00:04:00.222
+and it needs lot of intermediate
+
+NOTE Confidence: 0.75739046
+
+4bf75d11-4e24-461b-9d52-431e667b58b0
+00:04:00.222 --> 00:04:03.439
+representation which we will have to study.
+
+NOTE Confidence: 0.75739046
+
+3a4d0790-1dca-43e5-8823-860dd9842c9e
+00:04:03.439 --> 00:04:06.465
+How to learn. Converting the unstructured
+
+NOTE Confidence: 0.75739046
+
+23f6d6a4-52ac-4162-8a44-346e937430b4
+00:04:06.465 --> 00:04:10.335
+into some kind of structured format.
+
+NOTE Confidence: 0.75739046
+
+cd494074-5ca7-43bf-bc4c-643f031d55fb
+00:04:10.340 --> 00:04:12.237
+So here is a task for you.
+
+NOTE Confidence: 0.75739046
+
+2fa206cf-a738-4508-8ffa-03c32bdc5ac6
+00:04:12.240 --> 00:04:14.412
+There are there are.
+
+NOTE Confidence: 0.75739046
+
+1381c8b0-04bd-4c19-89ca-ddf97ae97197
+00:04:14.412 --> 00:04:16.584
+These are the resources.
+
+NOTE Confidence: 0.75739046
+
+935ac583-723e-4e7e-bc56-67495b13c2a8
+00:04:16.590 --> 00:04:19.271
+I'll text data or some kind of
+
+NOTE Confidence: 0.75739046
+
+b3f2f1b4-de98-4c24-8131-53c52caf03ef
+00:04:19.271 --> 00:04:21.860
+data so you have to think you
+
+NOTE Confidence: 0.75739046
+
+b79aceb7-b60f-4790-ac94-0cf2597b28b0
+00:04:21.860 --> 00:04:23.610
+have to just categorize them,
+
+NOTE Confidence: 0.75739046
+
+c5d2d7b5-104d-4c8f-8e1d-70e40a1019f9
+00:04:23.610 --> 00:04:26.698
+whether structure or unstructured.
+
+NOTE Confidence: 0.75739046
+
+848b09f6-16a9-4b2f-baa2-3bc368339db3
+00:04:26.700 --> 00:04:29.880
+Yes, so we have news article.
+
+NOTE Confidence: 0.75739046
+
+f0468899-4fe0-4ff2-a6c9-c2cc6a0efefd
+00:04:29.880 --> 00:04:31.424
+Yes, this is unstructured.
+
+NOTE Confidence: 0.75739046
+
+41687189-f918-4202-8935-807e844abf93
+00:04:31.424 --> 00:04:33.740
+You have visuals from the CCTV.
+
+NOTE Confidence: 0.75739046
+
+180ecc10-9339-4933-b0df-93130a4035cf
+00:04:33.740 --> 00:04:36.370
+Yes it is also unstructured.
+
+NOTE Confidence: 0.75739046
+
+50f9413d-cf80-48c5-9245-492083e53e58
+00:04:36.370 --> 00:04:38.700
+What about the data here?
+
+NOTE Confidence: 0.75739046
+
+b2354d1f-79d5-4049-aa56-b12f2f8c4767
+00:04:38.700 --> 00:04:40.320
+Yes, there is some format,
+
+NOTE Confidence: 0.75739046
+
+53a8bb04-4da9-4402-9e5a-5274c49a3e48
+00:04:40.320 --> 00:04:42.960
+so it can be considered as.
+
+NOTE Confidence: 0.75739046
+
+d91f2a4a-00d8-4dff-8f83-49652e545aec
+00:04:42.960 --> 00:04:44.499
+A structured data?
+
+NOTE Confidence: 0.75739046
+
+1b381481-4d7b-4a89-b268-95584e602a3e
+00:04:44.499 --> 00:04:46.038
+What about this?
+
+NOTE Confidence: 0.75739046
+
+2dce98ae-96ad-4f54-a657-0e67b6a64ea7
+00:04:46.040 --> 00:04:50.036
+This is a visual or this is the audio,
+
+NOTE Confidence: 0.75739046
+
+e8896e90-77f9-44d0-869a-207099f40f3d
+00:04:50.040 --> 00:04:53.300
+so it is also unstructured.
+
+NOTE Confidence: 0.75739046
+
+3e2c0555-3e5e-479d-980d-950cbb32bfa6
+00:04:53.300 --> 00:04:57.386
+What about this being Jason object?
+
+NOTE Confidence: 0.75739046
+
+cf69c8be-f295-4005-9018-91d27d51fa36
+00:04:57.390 --> 00:04:59.930
+He was a Barracuda is not just so they are
+
+NOTE Confidence: 0.75739046
+
+3d1f6062-aa9c-436d-9d0a-9b4fee39d74b
+00:04:59.994 --> 00:05:02.572
+in key value pairs or disease structure data.
+
+NOTE Confidence: 0.75739046
+
+8780cdb8-7579-4b4a-81e7-ae14e9a2afdc
+00:05:02.572 --> 00:05:05.038
+What about meets and the post
+
+NOTE Confidence: 0.75739046
+
+4d24b5f7-9071-42ab-b0ef-52f6abec5494
+00:05:05.038 --> 00:05:07.276
+and the social media. Yes,
+
+NOTE Confidence: 0.75739046
+
+60cd1b0e-ea18-498b-b6bc-e7cc91ba5580
+00:05:07.276 --> 00:05:10.210
+you can write anything and the length can be.
+
+NOTE Confidence: 0.75739046
+
+f8f622a7-f6e1-4b08-b31a-1aba3da74782
+00:05:10.210 --> 00:05:13.381
+There is no fixed dimension so this
+
+NOTE Confidence: 0.75739046
+
+56c4d250-d1fd-400b-bb78-e143c2961831
+00:05:13.381 --> 00:05:18.380
+is also what about this web page?
+
+NOTE Confidence: 0.75739046
+
+3302460d-9c82-4d32-83c0-af7c81fc0c4a
+00:05:18.380 --> 00:05:18.768
+Yes,
+
+NOTE Confidence: 0.75739046
+
+95af6f33-1043-4e0e-848b-7ced81fa4743
+00:05:18.768 --> 00:05:21.096
+so webpage where there is some
+
+NOTE Confidence: 0.75739046
+
+c10a064a-96bd-43a0-bd0b-04ce6a2fa94b
+00:05:21.096 --> 00:05:22.904
+organization without HTML tag followed
+
+NOTE Confidence: 0.75739046
+
+f4a6ea10-0955-46ed-bdcc-7991c01431a2
+00:05:22.904 --> 00:05:25.192
+by the body tag or baby Dev Dag.
+
+NOTE Confidence: 0.75739046
+
+b080d65b-1644-4d1b-b1e2-d06cb9e9797e
+00:05:25.200 --> 00:05:27.558
+And maybe there is some format,
+
+NOTE Confidence: 0.75739046
+
+4b9263a9-a4fb-4a9d-9657-b0499bf36df1
+00:05:27.560 --> 00:05:31.485
+but if you go into each of the tags
+
+NOTE Confidence: 0.75739046
+
+48234254-85c6-4ede-87ac-5cbafd7d5938
+00:05:31.485 --> 00:05:34.880
+you can find lot of unstructured data.
+
+NOTE Confidence: 0.75739046
+
+dbeb5bee-9ca2-47cf-a41d-034506936a86
+00:05:34.880 --> 00:05:37.274
+So you can consider this to be a single
+
+NOTE Confidence: 0.75739046
+
+749078a1-8bca-4127-8554-f831ed92db4b
+00:05:37.274 --> 00:05:39.398
+structure because overall it is structured.
+
+NOTE Confidence: 0.75739046
+
+42b2e1c0-1eaf-431d-9ae6-32f85a3f1492
+00:05:39.400 --> 00:05:43.160
+But when you go into it there you
+
+NOTE Confidence: 0.75739046
+
+39fceae5-2ff9-4f82-9f78-cd69b59498ff
+00:05:43.160 --> 00:05:46.569
+find lot of unstructured ones.
+
+NOTE Confidence: 0.75739046
+
+37e337de-9bb7-4eac-bdb3-c8d27ac4f6e5
+00:05:46.570 --> 00:05:49.041
+So when you see the comparison of
+
+NOTE Confidence: 0.75739046
+
+e7ea4853-f54e-40b6-8c23-f08a2da8e5ba
+00:05:49.041 --> 00:05:51.000
+the structured versus unstructured,
+
+NOTE Confidence: 0.75739046
+
+e24aa06f-ecce-4db1-854c-b7b2cda62193
+00:05:51.000 --> 00:05:53.050
+you can see the explosion
+
+NOTE Confidence: 0.75739046
+
+56641c0f-6c62-4862-bd78-44e7a7a013b9
+00:05:53.050 --> 00:05:54.690
+of unstructured a lot.
+
+NOTE Confidence: 0.75739046
+
+42f23a2b-6a20-4d74-a9c4-6de19fc485c2
+00:05:54.690 --> 00:05:57.026
+You can see there are lot of data
+
+NOTE Confidence: 0.75739046
+
+d40321df-c2f2-4ba2-ab45-0ac5a8481884
+00:05:57.026 --> 00:05:59.402
+that is being generated every year
+
+NOTE Confidence: 0.75739046
+
+cf208660-321f-4481-baeb-4875997e482d
+00:05:59.402 --> 00:06:01.970
+and the ratio in which structured
+
+NOTE Confidence: 0.75739046
+
+1f7c26d2-38af-4c8a-92e0-3eeb4a08dd6d
+00:06:02.047 --> 00:06:04.384
+and unstructured is very much.
+
+NOTE Confidence: 0.75739046
+
+f13ba303-f381-4040-af08-386f4bed76f3
+00:06:04.384 --> 00:06:07.170
+So you have lot of unstructured data
+
+NOTE Confidence: 0.75739046
+
+22b71244-f71e-44bb-9b01-0edd18f3339e
+00:06:07.255 --> 00:06:09.196
+when compared to structured data.
+
+NOTE Confidence: 0.75739046
+
+2665d8af-d3ba-4d39-a7e9-3a072dce5e31
+00:06:09.196 --> 00:06:11.860
+So a lot of processing and a lot
+
+NOTE Confidence: 0.75739046
+
+97e39228-dccd-453f-a5df-7024cbab811d
+00:06:11.930 --> 00:06:14.426
+of work has to be done when we're
+
+NOTE Confidence: 0.75739046
+
+d3dbfa55-b046-476e-9360-991661aea22a
+00:06:14.426 --> 00:06:16.350
+dealing with unstructured data.
+
+NOTE Confidence: 0.75739046
+
+136dc062-004f-4603-bc79-4040f4841616
+00:06:16.350 --> 00:06:19.572
+So in this video we have seen what is
+
+NOTE Confidence: 0.75739046
+
+6b4a6a65-2996-48bd-bcaa-0623b97fe588
+00:06:19.580 --> 00:06:22.730
+data and that we'll be focusing only
+
+NOTE Confidence: 0.75739046
+
+ac0ccfd8-21b6-4ae0-a807-0341e10a276d
+00:06:22.730 --> 00:06:26.446
+on the text data and most of the text data.
+
+NOTE Confidence: 0.75739046
+
+1ac5f76f-a222-4a1f-ba71-7e8aa9956ea1
+00:06:26.450 --> 00:06:28.910
+You can have their unstructured,
+
+NOTE Confidence: 0.75739046
+
+bcf25af1-97da-40d4-850f-a57245d42f26
+00:06:28.910 --> 00:06:30.322
+so unstructured means there
+
+NOTE Confidence: 0.75739046
+
+7fb43394-c0b1-4ecb-b2cd-a768bc6d8236
+00:06:30.322 --> 00:06:31.734
+is no specific formula.
+
+NOTE Confidence: 0.75739046
+
+d3b4d931-e860-47f6-b6fe-ef0c292ebf41
+00:06:31.740 --> 00:06:35.349
+We can take the example of the news article,
+
+NOTE Confidence: 0.75739046
+
+42c55691-d583-4724-89ed-b3e93f8dbe33
+00:06:35.350 --> 00:06:38.066
+so most of the data is unstructured
+
+NOTE Confidence: 0.75739046
+
+a756795d-3fd0-41a6-a613-ceecb323e269
+00:06:38.066 --> 00:06:40.214
+when compared with the structured
+
+NOTE Confidence: 0.75739046
+
+be588b40-547e-4351-867a-f467ad25c665
+00:06:40.214 --> 00:06:44.438
+data and next we will start with
+
+NOTE Confidence: 0.75739046
+
+f44a1144-b199-49f9-ae1d-856908a0cabc
+00:06:44.438 --> 00:06:46.264
+another pipeline and energy.
+
+NOTE Confidence: 0.75739046
+
+05cd1d49-6294-455f-ab52-9c42908daf61
+00:06:46.264 --> 00:06:48.254
+I put this thank you.
+
