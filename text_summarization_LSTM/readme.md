@@ -1,1 +1,1 @@
-This project implements a dialogue summarization model using an LSTM with encoder-decoder architecture with attention
+Handson project after completion of Coursera course on Deep learning Specialization by Andrew NG, This project implements a dialogue summarization model using an LSTM with encoder-decoder architecture with attention
