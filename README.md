@@ -1,5 +1,5 @@
 ## MachineLearning
-Contains all repos for my machine learning project I am currently doing for my course in ML program.
+Contains all repos for my machine learning project I did during my course in ML program.
 
 ### Project Overview
 
